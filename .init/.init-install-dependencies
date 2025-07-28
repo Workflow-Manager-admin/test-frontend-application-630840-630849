@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/tmp/kavia/workspace/code-generation/test-frontend-application-630840-630849/frontend_app"
+}
